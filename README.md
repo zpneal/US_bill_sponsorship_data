@@ -14,4 +14,4 @@ If you use these data, please cite one or more of the following papers that desc
 * Domagalski, R., Neal, Z. P., & Sagan, B. (2021). Backbone: An R package for extracting the backbone of bipartite projections. Plos one, 16(1), e0244363. https://doi.org/10.1371/journal.pone.0244363
 * Neal, Z. P., Domagalski, R., & Yan, X. (2022). Homophily in collaborations among US House Representatives, 1981–2018. Social Networks, 68, 97-106. https://doi.org/10.1016/j.socnet.2021.04.007
 
-If you have any questions about these data, or run into any problems using it, please contact me by email [zpneal@msu.edu](mailto:zpneal@msu.edu) or Twitter (@zpneal).
+If you have any questions about these data, or run into any problems using it, please contact me by email at [zpneal@msu.edu](mailto:zpneal@msu.edu) or on Twitter at [@zpneal](https://twitter.com/zpneal).
