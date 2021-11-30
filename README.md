@@ -1,7 +1,7 @@
 # US Bill Sponsorship Data
 This repo contains data on bill sponsorship in the US Senate and US House of Representatives from 1973 (93rd session) to 2019 (115th session). 
 
-The data take the form of separate bipartite incidence matrices for each session and chamber. In a given matrix **M**, M~ik~ = 1 if legislator *i* sponsored bill *k*, and otherwise is 0. The row names contain the legislator's name, party affiliation, state, and GovTrackID. The column names identify the bill; these data include only bills and joint resolutions because only these have the force of law if passed.
+The data take the form of separate bipartite incidence matrices for each session and chamber. In a given matrix **M**, M_ik_ = 1 if legislator *i* sponsored bill *k*, and otherwise is 0. The row names contain the legislator's name, party affiliation, state, and GovTrackID. The column names identify the bill; these data include only bills and joint resolutions because only these have the force of law if passed.
 
 The data is available in two formats:
 * `sponsorship.csv.zip` is a zip file that contains a separate CSV file for each chamber and session
